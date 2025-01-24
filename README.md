@@ -4,8 +4,8 @@
 
 Sou um desenvolvedor full stack apaixonado, com expertise em JavaScript, Node.js, Java e TypeScript, além de experiência no trabalho com bancos de dados como SQL Server e PostgreSQL. Tenho uma forte preferência por desenvolvimento backend ou por atuar na área de dados. Atualmente, estou no 5º semestre do curso de Ciência da Computação.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raulbelem)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](<[www.linkedin.com/in/raulbelem](https://www.instagram.com/raulpontes.7/)>)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulbelem)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulpontes.7/)
 
 ---
 
@@ -30,7 +30,7 @@ Sou um desenvolvedor full stack apaixonado, com expertise em JavaScript, Node.js
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Raulz-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Raulz-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
 <img 
