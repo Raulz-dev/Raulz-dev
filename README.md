@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Sou um desenvolvedor full stack apaixonado, com expertise em JavaScript, Node.js, Java e TypeScript, além de experiência no trabalho com bancos de dados como SQL Server e PostgreSQL. Tenho uma forte preferência por desenvolvimento backend ou por atuar na área de dados. Atualmente, estou no 5º semestre do curso de Ciência da Computação.
+Sou um desenvolvedor full stack apaixonado, com expertise em JavaScript, Node.js, Java e TypeScript, além de experiência no trabalho com bancos de dados como SQL Server e PostgreSQL. Tenho uma forte preferência por desenvolvimento backend ou por atuar na área de dados. Atualmente, estou no 6º semestre do curso de Ciência da Computação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulbelem)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulpontes.7/)
